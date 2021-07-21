@@ -1,26 +1,15 @@
-
-<!--
-**katieladd/katieladd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Welcome Traveler!
+My name's Katie Ladd, and I'm a software engineer currently located in Rome, NY. I love making web apps with sleek, shiny modern frontends and lightning fast backend queries.
 
-### Feel free to reach out!
+When I'm not slinging code, I'm playing video games, TTRPGs, and gardening 🌱
+
+Currently seeking gainful employment!
+
+### Talk to me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katie-ladd/)](https://www.linkedin.com/in/katie-ladd/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/katieladd/)](https://github.com/katieladd/)
 
-### My bread and butter 💖
+### My bread and butter tech stack💖
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
