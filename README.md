@@ -1,7 +1,7 @@
 # Welcome Traveler!
 My name's Katie Ladd, and I'm a software engineer currently located in Rome, NY. I love making web apps with sleek, shiny modern frontends and lightning fast backend queries.
 
-When I'm not slinging code, I'm playing video games, TTRPGs, and gardening 🌱
+When I'm not slinging code, I'm playing video games, D&D, and gardening 🌱
 
 Currently seeking gainful employment!
 
