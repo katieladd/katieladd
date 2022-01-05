@@ -1,10 +1,9 @@
 # Welcome Traveler!
 My name's Katie Ladd, and I'm a software engineer currently located in Rome, NY. I love making web apps with sleek, shiny modern frontends and lightning fast backend queries.
 
-When I'm not slinging code, I'm playing video games, D&D, and gardening 🌱
+When I'm not slinging code, I'm playing video games, D&D, and gardening! 🪴
 
-Currently seeking gainful employment!
-
+Currently working as a fullstack software engineer at Andculture!
 ### Talk to me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katie-ladd/)](https://www.linkedin.com/in/katie-ladd/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/katieladd/)](https://github.com/katieladd/)
