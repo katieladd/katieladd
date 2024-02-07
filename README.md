@@ -1,7 +1,11 @@
 # Welcome Traveler!
 My name's Katie Ladd, and I'm a software engineer currently located in Syracuse, NY with an addiction to the frontend 💖 
 Currently making full web applications for educational and nonprofit sectors, helping humans and making them love of technology along the way!
+
+Some of the applications I've worked on:
+
 https://www.carnegielearning.com/solutions/math/mathstream/
+
 https://link.nfpa.org/
 
 When I'm not slinging code, I'm playing video games, D&D, Skating, and gardening! 🪴
